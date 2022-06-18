@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:hover {
+    background-color: black;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+#button {
+    font-size: 30px;
+    padding: 20px;
+}
